@@ -1,0 +1,4 @@
+I have created a python file and practising the work on it
+ I am writing while using the read and write mode and it will not overwrite the existing content
+A new meassage has been added to the file [2026-04-06 03:14:42.960260]
+A new meassage has been added to the file [2026-04-06 03:16:53]

@@ -1,0 +1,2 @@
+Practising the file handling as the practise make the man perfect
+ I am writing while using the append mode and it will not overwrite the existing content

@@ -1,0 +1,3 @@
+I have created a python file and practising the work on it
+ I am writing while using the read and write mode and it will not overwrite the existing contentI have created a python file and practising the work on it
+ I am writing while using the read and write mode and it will not overwrite the existing content
